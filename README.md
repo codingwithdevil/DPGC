@@ -1,5 +1,5 @@
 # DPGC
-### Proxy Grabber and Checker[http,https,socks4,socks5]
+### Proxy Grabber and Checker[ http, https, socks4, socks5]
 ### [+] Created By Coding With Devil
 ### [+] Disclaimer :
 ***DPGC is a tool used to Grab Proxy and Check proxy. It is created for Educational Purpose only.***
