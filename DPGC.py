@@ -8,7 +8,7 @@
 import Defs.main.runner as runner
 import Defs.theme.theme as theme
 from time import sleep as wait
-import Defs.rckr.rckr as rckr
+
 if __name__ == "__main__":
     try :
         runner.runner()
