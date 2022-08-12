@@ -18,12 +18,14 @@
 
 ```chmod +x *```
 
+```pip3 install -r requirements.txt```
+
 ```python3 DPGC.py```
 
 
 ### Or, Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/codingwithdevil/DPGC.git && cd DPGC && chmod +x * && python3 DPGC.py
+apt update && apt install git -y && git clone https://github.com/codingwithdevil/DPGC.git && cd DPGC && chmod +x *&& pip3 install -r requirements.txt && python3 DPGC.py
 ```
 
 ### [+] Official Youtube Channel https://www.youtube.com/c/CodingWithDevil/
