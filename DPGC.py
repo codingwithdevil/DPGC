@@ -11,8 +11,6 @@ from time import sleep as wait
 import Defs.rckr.rckr as rckr
 if __name__ == "__main__":
     try :
-        rckr.rchecker()
-        wait(3)
         runner.runner()
     except KeyboardInterrupt :
         print(" ")
