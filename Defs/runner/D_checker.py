@@ -93,7 +93,7 @@ def check_proxys(proxys):
 
     while not queue.empty():
         queuelock.acquire()
-        for workers in range(100):
+        for workers in range(200):
             t = threading.Thread(target=check_proxy, args=(queue,))
             t.setDaemon(True)
             t.start()
