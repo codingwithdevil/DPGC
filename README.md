@@ -5,7 +5,7 @@
 ***DPGC is a tool used to Grab Proxy and Check proxy. It is created for Educational Purpose only.***
 
 
-### [+] Installation For Kali Linux [Currently Only Tested In Linux]
+### [+] Installation For Kali Linux/Termux
 ```apt update```
 
 ```apt install git -y```
