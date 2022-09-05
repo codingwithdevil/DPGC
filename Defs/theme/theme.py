@@ -41,7 +41,7 @@ dc_logo ="""
 {0}|_____/  {1} \_____|_| |_|\___|\___|_|\_\___|_|
                        {2} Coded By Devil
             
-""".format(paller[0],pallet[1],pallet[2])                                                                                                                                                                               
+""".format(pallet[0],pallet[1],pallet[2])                                                                                                                                                                               
 
 
 d_sg ="""
