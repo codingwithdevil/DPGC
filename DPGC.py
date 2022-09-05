@@ -1,5 +1,6 @@
 #
 #    DPGC [Devil Proxy Grabber and checker ]   by Coding With Devil  https://www.youtube.com/c/CodingWithDevil/
+#    This Program is Used to Scrape Proxies and Check Proxies
 #    This program comes with ABSOLUTELY NO WARRANTY
 #    The use of the DPGC & its resources is COMPLETE RESPONSIBILITY of the END-USER.
 #    Developers assume NO liability and are NOT responsible for any damage caused by this program.
