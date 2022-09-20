@@ -30,13 +30,12 @@
 apt update && apt install git -y && git clone https://github.com/codingwithdevil/DPGC.git && cd DPGC && chmod +x *&& pip3 install -r requirements.txt && python3 DPGC.py
 ```
 
-# Support Me on:
+### Support Me on:
 
-### [+] Official Youtube Channel https://www.youtube.com/c/CodingWithDevil/
-### [+] Telegram  :- https://t.me/CodingWithDevil_yt
-### [+] Instagram :- https://www.instagram.com/codingwithdevil/
+<a href="https://t.me/https://t.me/CodingWithDevil_yt"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.instagram.com/codingwithdevil"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.youtube.com/c/codingwithdevil"><img src="https://img.shields.io/youtube/channel/subscribers/UCnKlznTEohj_PCw9cuxy8Zg?style=social"></a>
+<a href="https://t.me/CodingWithDevil"><img src="https://img.shields.io/badge/Telegram-Group-blue"></a>
+<a href="https://t.me/Codingwithdevil_group_chat"><img src="https://img.shields.io/badge/Telegram-Group%20Chat-blue"></a>
 
-# Official Group :
-
-### [+] official telegram group:  https://t.me/CodingWithDevil
-### [+] official telgarm group chat : https://t.me/Codingwithdevil_group_chat
+<br>
